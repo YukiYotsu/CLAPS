@@ -1,6 +1,6 @@
 # CLAPS
 
-# How to Cite
+## How to Cite
 
 ```
 This project uses materials from CLAPS by Yuki Yotsumoto and Shuhei Mizuta.
