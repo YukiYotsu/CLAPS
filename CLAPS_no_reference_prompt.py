@@ -17,7 +17,7 @@ with open(CSV_PATH, "r", encoding="utf-8") as f:
         rows = list(reader)
 
 for i, row in enumerate(rows):
-  english_text = row[0].strip()
+  english_text = row[0].strip() # text to be translated
 
   prompt = (
               f"Translate the following English sentence into Japanese. Do not use or refer to any other external information. Please note that this is not a summary task but just a translation task.\
