@@ -1,4 +1,5 @@
 # CLAPS
+LLM-based Machine Translation of **C**onference Presentations **L**everaging **A**cademic **P**apers or Presentation **S**lides
 
 ## How to Cite
 
